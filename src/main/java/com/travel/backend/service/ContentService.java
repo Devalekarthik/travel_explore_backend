@@ -34,7 +34,7 @@ public class ContentService {
 	public Map<String, String> getAvailableSections() {
 		Map<String, String> sections = new LinkedHashMap<>();
 		for (ContentDocument doc : contentRepository.findAll()) {
-			sections.put(doc.getId(), "");
+			sections.put(doc.getId(), doc.getId());
 		}
 		return sections;
 	}
