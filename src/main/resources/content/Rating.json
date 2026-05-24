@@ -1,0 +1,20 @@
+{
+  "Rating": [
+    {
+      "ratingNumber": 10,
+      "ratingDesc": "World of experience"
+    },
+    {
+      "ratingNumber": "2K+",
+      "ratingDesc": "Fine Destination"
+    },
+    {
+      "ratingNumber": "10K+",
+      "ratingDesc": "Customer Reviews"
+    },
+    {
+      "ratingNumber": 4.8,
+      "ratingDesc": "Overall Ratings"
+    }
+  ]
+}

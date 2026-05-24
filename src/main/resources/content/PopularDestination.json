@@ -1,0 +1,20 @@
+{
+  "PopularDestination": {
+    "title": "Popular Destinations",
+    "subTitle": "Tours give you the opportunity to explore",
+    "travelPlaces": [
+      {
+        "title": "Hokkaido, Japan",
+        "info": "Hokkaido is the second largest island of Japan and is located in the northernmost part of the country. It is also the largest and northernmost prefecture of Japan, making up its own region. The island is separated from Honshu, the main island of Japan, by the Tsugaru Strait and is connected to it by the undersea railway Seikan Tunnel. It is a place to visit year round because of its cool summers and snowy winters offering ski resorts and hot springs. Sapporo, the capital of Hokkaido, hosts the annual Snow Festival in February. Other areas of interest include Niseko, Otaru and Hakodate.",
+        "img1": "./PopularDestination/Hokkaido-Img1.jpg",
+        "img2": "./PopularDestination/Hokkaido-Img2.jpg"
+      },
+      {
+        "title": "Venice Canals, Italy",
+        "info": "A gondola ride through the canals of Venice is a tradition that travelers have been participating in for centuries. Venice is a city of islands and the canals have long been, in many ways, the city's streets. Lining the canals are the old buildings which have remained relatively unchanged for hundreds of years, adding to the romantic charm. The Grand Canal is the most famous of these waterways and one of the most photographed sites in Venice.",
+        "img1": "./PopularDestination/Venice Canals-Img1.jpg",
+        "img2": "./PopularDestination/Venice Canals-Img2.jpg"
+      }
+    ]
+  }
+}

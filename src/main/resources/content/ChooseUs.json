@@ -1,0 +1,25 @@
+{
+  "ChooseUs": {
+    "title": "Why Should You Choose Us",
+    "subTitle": "We have extensive knowledge and experience in the travel industry.",
+    "chooseUsImg1": "./ChooseUsImages/SunSet1.jpg",
+    "chooseUsImg2": "./ChooseUsImages/SunSet2.jpg",
+    "safety": [
+      {
+        "safetyImg": "",
+        "safetyTitle": "Safety and support",
+        "safetyTitleInfo": "Our top priority is the safety and well-being of our clients. We maintain high safety standards and have emergency support available during the trip. Our travel agency prioritizes your safety by partnering with trusted accommodations and transportation providers."
+      },
+      {
+        "safetyImg": "./ChooseUsImages/DiverseRange.png",
+        "safetyTitle": "Diverse Range of Destinations",
+        "safetyTitleInfo": "Whether it's a domestic tour or an international adventure, we cover a wide range of destinations to cater to different interests and proferences. Explore a diverse range of breathtaking destinations with our travel agency. Embark on unforgettable adventures with us."
+      },
+      {
+        "safetyImg": "./ChooseUsImages/CustomerSupport.png",
+        "safetyTitle": "24/7 Customer Support",
+        "safetyTitleInfo": "Our dedicated customer support team is available round the clock to address any queries or concerns before during and after the trip. We ensuring a worry-free travel experience."
+      }
+    ]
+  }
+}

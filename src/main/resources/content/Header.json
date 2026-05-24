@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "company": "EXPLORE",
+    "title": "Your Journey Your Story",
+    "subTitle": "Choose Your Favourite Destination",
+    "bannerVideo": "./BannerVideo/HomePage.mp4",
+    "bannerImg": "./BannerVideo/BannerImg.png",
+    "nav-name": [
+      {
+        "tab": "Rating"
+      },
+      {
+        "tab": "Popular Destinations"
+      },
+      {
+        "tab": "Search Destinations"
+      },
+      {
+        "tab": "Hotels"
+      },
+      {
+        "tab": "Reviews"
+      },
+      {
+        "tab": "Contact"
+      },
+      {
+        "tab": "Creater"
+      }
+    ]
+  }
+}
